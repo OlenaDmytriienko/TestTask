@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkabz_agency"]=self["webpackChunkabz_agency"]||[]).push([[443],{4244:function(s,c,e){e.r(c),e.d(c,{default:function(){return g}});var u=e(3396),a=e(8296);const t={class:"success"},n=(0,u._)("h1",{class:"success__title"},"User successfully registered",-1),r=(0,u._)("img",{class:"success__img",src:a,alt:"Success registration"},null,-1),l=[n,r];var i={__name:"Success",setup(s){return(s,c)=>((0,u.wg)(),(0,u.iD)("div",t,l))}};const _=i;var g=_}}]);
+//# sourceMappingURL=about.52be9e4e.js.map
